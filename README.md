@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 ### 💡 Interests
 
-I'm deeply interested in:
+**I'm deeply interested in**:
 
 - Building real-life projects using language models that serve impactful use-case.
 - Exploring State-of-the-art methods, new world Ai architectures.
@@ -28,7 +28,7 @@ I'm deeply interested in:
 
 ### 📚 Hobbies
 
-Apart from coding, I enjoy:
+*Apart from coding, I enjoy*:
 
 - Swimming makes my mind clear
 - Reading philospy is a bless.
