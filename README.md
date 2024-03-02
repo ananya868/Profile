@@ -10,13 +10,13 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 ### 🚀 Expertise
 
-- Programming Languages: Python (advanced), R (advanced), C++ (intermediate), C (intermediate)
-- Machine learning: Worked on Regression and Classification Algorithms, Decision Tree, Time-Series forecasting
-- Deep learning: Utilized ANN, CNN, and RNN architectures to develop impactful projects.
-- NLP: Deep understanding Word Embeddings , Implenting RNNs, LSTM architecture, GRU, Transformers, BERT, RAG 
-- Computer Vision: Worked on Real-World data, utilized CNN, U-Net architecture for medical, also worked on Object Detection, Object Segmentation, Pose Estimation
-- Research Papers: Keeping myself up-to-date by reading new papers every week, to utilize the potential of ne state-of-the-art methods
-- Gen AI: Worked on Defusion models, ERSGAN for Upscaling image, Music Generation 
+- **Programming Languages**: Python (advanced), R (advanced), C++ (intermediate), C (intermediate)
+- **Machine learning**: Worked on Regression and Classification Algorithms, Decision Tree, Time-Series forecasting
+- **Deep learning**: Utilized ANN, CNN, and RNN architectures to develop impactful projects.
+- **NLP**: Deep understanding Word Embeddings , Implenting RNNs, LSTM architecture, GRU, Transformers, BERT, RAG 
+- **Computer Vision**: Worked on Real-World data, utilized CNN, U-Net architecture for medical, also worked on Object Detection, Object Segmentation, Pose Estimation
+- **Research Papers**: Keeping myself up-to-date by reading new papers every week, to utilize the potential of ne state-of-the-art methods
+- **Gen AI**: Worked on Defusion models, ERSGAN for Upscaling image, Music Generation 
 
 ### 💡 Interests
 
