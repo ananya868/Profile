@@ -52,5 +52,4 @@ My ultimate goal is to work as an AI engineer to build impactful applications th
   </a>
 </p>
 
-Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
 ------
