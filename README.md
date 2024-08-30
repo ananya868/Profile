@@ -53,22 +53,4 @@ My ultimate goal is to work as an AI engineer to build impactful applications th
 </p>
 
 Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya868&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya868&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-
-
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ananya868&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-  </p>
-</details>
-
-
 ------
